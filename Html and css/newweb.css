@@ -1,0 +1,22 @@
+.w{
+    display: flex;
+}
+
+.hey{
+    color: rgb(15, 250, 105);
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+.there{
+    color: rgb(205, 219, 8);
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+.whats{
+    color: rgb(228, 32, 32);
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
